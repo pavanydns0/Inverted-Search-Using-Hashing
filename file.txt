@@ -1,0 +1,4 @@
+Inverted index is a powerful data structure
+Search engines use inverted index to improve performance
+Data structures like trees and hash tables are important
+Index helps in fast searching of words
